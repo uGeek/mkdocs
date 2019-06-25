@@ -1,9 +1,9 @@
 # MkDocs
 # Cogset Open Source Group
 
-FROM debian:jessie
+FROM debian:testing-slim
 
-MAINTAINER Cogset <cogset@funcuter.org>
+MAINTAINER Angel <ugeekpodcast@gmail.com>
 
 ENV MKDOCS_VERSION 0.16.1
 
